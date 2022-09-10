@@ -1,5 +1,4 @@
 # Design-and-Analysis-of-Algorithms
-# Design-and-Analysis-of-Algorithm
 <h2> Assignment 1 </h2>
 
 Name : Arpit Singh Thakur <br>
