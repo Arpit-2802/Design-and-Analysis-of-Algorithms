@@ -20,7 +20,6 @@ Roll : 36 <br>
 
 <h3> TEST CASES </h3>
 
-INPUT : 
-![image](https://user-images.githubusercontent.com/84870015/189495936-b940b133-e2a0-4e50-80a8-22f37aca6364.png)
+
 
 
