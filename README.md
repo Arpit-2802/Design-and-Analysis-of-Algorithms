@@ -22,6 +22,7 @@ Roll : 36 <br>
 <br>
 <p> INPUT </p>
 ![Screenshot (65)](https://user-images.githubusercontent.com/95165463/189665216-219f1581-60a2-481a-a5a2-2776fcfb0363.png)
+
 ![Screenshot (66)](https://user-images.githubusercontent.com/95165463/189666053-510516a3-b277-445c-8b17-6172ad1a9985.png)
 <p> OUTPUT </p>
 <p>It is a Rising Matrix</p>
