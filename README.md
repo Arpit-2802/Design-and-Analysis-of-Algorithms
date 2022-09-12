@@ -20,18 +20,14 @@ Roll : 36 <br>
 
 <h3> TEST CASES </h3>
 <br>
-<p> INPUT </p>
-![Screenshot (65)](https://user-images.githubusercontent.com/95165463/189666890-eb87fc6c-6ff2-49c6-9f67-b1ba1fcaefd0.png)
+<p> INPUT1 </p>
 
-<p> OUTPUT </p>
+![Screenshot (65)](https://user-images.githubusercontent.com/95165463/189667623-2322a9b0-d341-4051-a555-59f4f4c1f218.png)
+
+<p> OUTPUT1 </p>
 <p>It is a Rising Matrix</p>
 
-<p> INPUT </p>
 
-![Screenshot (66)](https://user-images.githubusercontent.com/95165463/189667026-ed07966c-584e-48df-9adc-bcf5a522ac9c.png)
-
-<p> OUTPUT </p>
-<p>It is not a Rising Matrix</p>
 
 
 
