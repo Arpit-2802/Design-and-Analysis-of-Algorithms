@@ -30,9 +30,15 @@ Roll : 36 <br>
 
 ![Screenshot (66)](https://user-images.githubusercontent.com/95165463/189668083-4dc1d5d0-ed74-4a4e-9acc-3b217952e8e9.png)
 
-<p>OUTPUT</p>
+<p>OUTPUT2</p>
 <p>It is not a Rising Tower Matrix</p>
 
+<p> INPUT3(Random Inputs) </p>
 
+
+![Screenshot (68)](https://user-images.githubusercontent.com/95165463/189668623-956c18fa-3056-4502-8b58-401e3dab5401.png)
+
+<p> OUTPUT3 </p>
+<p>It is a not Rising Tower Matrix</p>
 
 
